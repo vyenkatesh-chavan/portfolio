@@ -33,7 +33,7 @@ const Projects = () => {
       tech: ["MERN", "ML", "Real-time"]
     },
     {
-      title: "Workik Project – AI Test Case Generator",
+      title: "AI Test Case Generator",
       desc: `AI-powered test case generator integrated with GitHub.
       • Fetches repo files & generates AI test case suggestions.
       • Supports frameworks like JUnit, Selenium.
